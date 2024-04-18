@@ -1,8 +1,13 @@
 {
-  "name": "github-action-package",
+  "name": "@victoriashyika/github-action-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": ["index.js"],
+  "repository": {
+    "type":"git",
+    "directory": "https//github.com/victoriashyika/github-action-package.git"
+},
   "publishConfig": {"registry": "https://registry.npmjs.org/"},
   "scripts": {
       "test": "react-scripts test"
