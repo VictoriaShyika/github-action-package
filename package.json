@@ -5,6 +5,7 @@
   "main": "index.js",
   "publishConfig": {"registry": "https://npm.pkg.github.com/@VictoriaShyika"},
   "scripts": {
+      "test": "react-scripts test"
   },
   "keywords": [],
   "author": "",
