@@ -6,9 +6,9 @@
   "files": ["index.js"],
   "repository": {
     "type":"git",
-    "directory": "https//github.com/victoriashyika/github-action-package.git"
+    "directory": "https://github.com/victoriashyika/github-action-package.git"
 },
-  "publishConfig": {"registry": "https://registry.npmjs.org/"},
+  "publishConfig": {"registry": "https://registry.npmjs.org"},
   "scripts": {
       "test": "react-scripts test"
   },
