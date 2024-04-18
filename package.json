@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "publishConfig": {"registry": "https://npm.pkg.github.com/@victoria-shyika"},
+  "publishConfig": {"registry": "https://github.com/VictoriaShyika/github-action-package"},
   "scripts": {
       "test": "react-scripts test"
   },
