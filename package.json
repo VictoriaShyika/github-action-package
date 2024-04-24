@@ -1,14 +1,14 @@
 {
-  "name": "@victoria-shyika/github-action-package",
+  "name": "@VictoriaShyika/github-action-package",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VictoriaShyika/github-action-package.git"
+    "url": "https://github.com/VictoriaShyika/github-action-package"
 },
   "publishConfig": {
-   "publishConfig": {"@victoria-shyika:registry": "https://npm.pkg.github.com", "access": "public"}
+   "publishConfig": {"@VictoriaShyika:registry": "https://npm.pkg.github.com", "access": "public"}
 },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
