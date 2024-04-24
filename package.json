@@ -1,14 +1,23 @@
 {
   "name": "@victoria-shyika/github-action-package",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "files": ["index.js"],
-  "publishConfig": {"registry": "https://registry.npmjs.org", "access": "public"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaShyika/github-action-package.git"
+},
+  "publishConfig": {
+   "publishConfig": {"@victoria-shyika:registry": "https://npm.pkg.github.com", "access": "public"}
+},
   "scripts": {
-      "test": "react-scripts test"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
+    "bugs": {
+    "url": "https://github.com//VictoriaShyika/github-action-package/issues"
+  },
+  "homepage": "https://github.com//VictoriaShyika/github-action-package#readme",
   "keywords": [],
-  "author": "",
+  "author": "VictoriaShyika",
   "license": "ISC"
 }
