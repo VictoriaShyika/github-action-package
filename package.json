@@ -1,5 +1,5 @@
 {
-  "name": "@VictoriaShyika/github-action-package",
+  "name": "@victoria-shyika/github-action-package",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/VictoriaShyika/github-action-package.git"
 },
   "publishConfig": {
-    "@VictoriaShyika:registry": "https://npm.pkg.github.com", 
+    "@victoria-shyika:registry": "https://npm.pkg.github.com/", 
     "access": "public"
   },
   "scripts": {
