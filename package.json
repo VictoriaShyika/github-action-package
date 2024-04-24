@@ -8,8 +8,9 @@
     "url": "git+https://github.com/VictoriaShyika/github-action-package.git"
 },
   "publishConfig": {
-   "publishConfig": {"@VictoriaShyika:registry": "https://npm.pkg.github.com", "access": "public"}
-},
+    "@VictoriaShyika:registry": "https://npm.pkg.github.com", 
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
