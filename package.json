@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VictoriaShyika/github-action-package"
+    "url": "git+https://github.com/VictoriaShyika/github-action-package.git"
 },
   "publishConfig": {
    "publishConfig": {"@VictoriaShyika:registry": "https://npm.pkg.github.com", "access": "public"}
